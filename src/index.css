@@ -5,3 +5,33 @@
 
 /* Form */
 @import url(../src/components/Form/Form.css);
+
+/* Input */
+@import url(../src/components/Input/Input.css);
+
+/* Label */
+@import url(../src/components/Label/Label.css);
+
+/* InputError */
+@import url(../src/components/InputError/InputError.css);
+
+/* InputHint */
+@import url(../src/components/InputHint/InputHint.css);
+
+/* Checkbox */
+@import url(../src/components/Checkbox/Checkbox.css);
+
+/* Swich */
+@import url(../src/components/Swich/Swich.css);
+
+/* Radio */
+@import url(../src/components/Radio/Radio.css);
+
+/* Select */
+@import url(../src/components/Select/Select.css);
+
+/* Buttons */
+@import url(../src/components/Buttons/Buttons.css);
+
+/* Button */
+@import url(../src/components/Button/Button.css);

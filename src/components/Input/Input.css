@@ -1,0 +1,26 @@
+.input {
+  padding: 16px;
+  border: 2px solid #CCCCCC;
+  border-radius: 8px;
+  color: #333333;
+  font-size: 16px;
+  box-sizing: border-box;
+  outline: none;
+}
+
+.input::placeholder {
+  font-size: 16px;
+  color: #666666;
+}
+
+.input:focus {
+  border: 2px solid #7A5CFA;
+}
+
+.input_type_error {
+  border: 2px solid #EB5757;
+  background-image: url(../../images/error.png);
+  background-repeat: no-repeat;
+  background-position: calc(100% - 18px) center;
+  background-size: 20px;
+}

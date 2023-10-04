@@ -1,0 +1,30 @@
+.checkbox {
+  align-self: flex-start;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.checkbox__label {
+  width: 24px;
+  height: 24px;
+  border: 1px solid #CCCCCC;
+  border-radius: 8px;
+}
+
+.checkbox__label_type_checked {
+  background-image: url(../../images/checkbox.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 17px;
+}
+
+.checkbox__input {
+  visibility: hidden;
+}
+
+.checkbox__title {
+  margin: 0;
+  font-size: 16px;
+  color: #666666;
+}

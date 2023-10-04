@@ -1,0 +1,38 @@
+.radio {
+  display: flex;
+  gap: 16px;
+  align-self: flex-start;
+  justify-content: center;
+}
+
+.radio__label {
+  width: 24px;
+  height: 24px;
+  border: 1px solid #CCCCCC;
+  border-radius: 99em;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.radio__circle {
+  width: 12px;
+  height: 12px;
+  background-color: #7A5CFA;
+  border-radius: 99em;
+}
+
+.radio__input {
+  visibility: hidden;
+  width: 1px;
+  height: 1px;
+}
+
+.radio__title {
+  font-size: 16px;
+  color: #666666;
+  margin: 0;
+  display: flex;
+  align-items: center;
+}
