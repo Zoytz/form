@@ -1,0 +1,7 @@
+@import url(../src/vendor/normalize.css);
+
+/* page */
+@import url(../src/components/App/App.css);
+
+/* Form */
+@import url(../src/components/Form/Form.css);
